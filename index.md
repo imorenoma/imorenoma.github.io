@@ -1,3 +1,7 @@
-# Header 1
+# Scripts
 
-This is the first paragraph of mi site
+* Python				* MatLab
+* HTML5/CSS/JavaScript
+* Java
+* C
+* C#
