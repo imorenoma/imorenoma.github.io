@@ -1,6 +1,6 @@
 /*CSS FOR GITHUB.IO*/
 
 body{
-	background-color: #99ccff;
 	background-size: 100%;
+	background-image: linear-gradient(to right,#0033cc , #339933);
 }
