@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Scripts
 
 * **[Python](https://github.com/imorenoma/SAT2020.git)** 				
